@@ -23,9 +23,9 @@ Asteroids Game is a Java project developed in Eclipse. In this game, you (the us
 1. Install Java SE Development Kit (JDK): Download and install the JDK from Oracle's website.
 2. Install Eclipse IDE: Download and install Eclipse IDE for Java Developers from Eclipse's website.
 3. Import Project Files:
-  * Open Eclipse and select a workspace.
-  * Go to File > Import > Existing Projects into Workspace and select the directory containing the project files.
+   * Open Eclipse and select a workspace.
+   * Go to File > Import > Existing Projects into Workspace and select the directory containing the project files.
 4. Run the Game:
-  * Right-click the main file in Eclipse.
-  * Choose Run As > Java Application.
-  * In the game window, select "Start Game" to begin playing.
+   * Right-click the main file in Eclipse.
+   * Choose Run As > Java Application.
+   * In the game window, select "Start Game" to begin playing.
